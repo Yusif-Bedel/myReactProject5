@@ -1,0 +1,27 @@
+footer{
+width: 100%;
+padding: 100px 0px;
+}
+footer .container{
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.footTop{
+    display: flex;
+    justify-content: center;    
+    align-items: center;    
+    gap: 5px;
+}
+.footTop i{
+    padding: 10px;
+    border-radius: 50%;
+    background: darkmagenta;
+    color: white;
+}
+.footBottom{
+    font-size: 13px;
+    color: gray;
+}

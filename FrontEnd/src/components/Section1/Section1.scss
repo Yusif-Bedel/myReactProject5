@@ -1,0 +1,20 @@
+.salam{
+position: absolute;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+gap: 20px;
+top: 300px;
+left: 50%;
+transform: translate(-50%,0%);
+}
+.salam span{
+    font-size: 24px;
+    color: white;
+    font-weight: 300;
+}
+.salam h1{
+    font-size: 60px;
+    color: white;
+}

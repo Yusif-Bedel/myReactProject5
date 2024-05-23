@@ -1,0 +1,49 @@
+.section5{
+    padding: 100px 0px ;
+}
+.section5 .container{
+display: flex;
+justify-content: center;    
+align-items: center;
+flex-direction: column;
+gap: 20px;
+}
+.s5Cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    width: 100%;
+}
+.s5Card{
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    gap: 10px;
+    flex-direction: column;
+}
+.section5 h2{
+    font-size: 32px;
+    font-weight: 300;
+}
+.section5 p{
+    font-style: 16px;
+}
+.section5 a{
+    color: darkmagenta;
+    font-size: 16px;
+}
+.s5Card img{
+    width: 320px;
+}
+.s5Card h4{
+    font-size: 20px;
+    font-weight: 300;
+}
+.s5Card p{
+    color: gray;
+}
+.s5Card span{
+    font-size: 12px;
+    margin-right: 100px;
+}

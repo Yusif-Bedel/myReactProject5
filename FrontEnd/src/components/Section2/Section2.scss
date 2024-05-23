@@ -1,0 +1,29 @@
+.section2{
+    width: 100%;
+    padding: 100px 0px;
+}
+.section2 .container{
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.section2 h2{
+    font-weight: 300;
+    font-size: 32px;
+}
+.section2 a{
+    color: rgb(165, 36, 165);
+    transition: 0.4s ease;
+}
+.section2 a:hover{
+    color: black;
+}
+.s2Bottom{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+flex-wrap: wrap;
+width: 100%;
+}
